@@ -15,6 +15,7 @@ Enable quick search and tracking
 Maintain structured records with timestamps
 Provide export functionality for reports
 User Roles
+The system mainly includes an Admin user who can add, update, delete, and manage all records. Only authorized users can access the system through login authentication
 
 Admin
 
